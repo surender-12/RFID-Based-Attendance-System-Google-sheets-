@@ -45,6 +45,4 @@ In conclusion, our **RFID-Based Attendance System Using IoT** provides an effici
 - **Notification System** to alert users when their attendance is marked.
 - **Data Analytics** for generating attendance reports and insights.
 
----
-### 📌 Feel free to contribute or raise issues for improvements!
 
